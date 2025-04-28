@@ -63,7 +63,7 @@ const Hero = () => {
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] min-[580px]:text-[67px] min-[560px]:text-[64px] min-[540px]:text-[60px] min-[520px]:text-[56px] min-[460px]:text-[52px] min-[430px]:text-[48px] min-[400px]:text-[44px] min-[365px]:text-[40px] text-[36px] text-black ss:leading-[100px] leading-[75px] break_word">
           {/* <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] min-[580px]:text-[67px] min-[560px]:text-[64px] min-[540px]:text-[60px] min-[520px]:text-[56px] min-[460px]:text-[52px] min-[430px]:text-[48px] min-[400px]:text-[44px] min-[365px]:text-[40px] text-[36px] text-white ss:leading-[100px] leading-[75px] break_word"> */}
             <span>
-              Cataylising and <br className="sm:block hidden"/> Channelling <span className="text-cloud-gradient">Benefit</span>
+              Catalysing and <br className="sm:block hidden"/> Channelling <span className="text-cloud-gradient">Benefit</span>
               {/* Cataylising and <br className="sm:block hidden"/> Imparting <span className="text-gradient2">Good.</span> */}
               {/* Producing and <br className="sm:block hidden"/> imparting <span className="text-gradient2">value.</span> <br className="sm:block hidden"/> Guided by <span className="text-gradient2">wisdom</span><br className="sm:block hidden"/> and <span className="text-gradient2">fortitude.</span> */}
               {/* Applying <span className="text-gradient2">wisdom</span> <br className="sm:block hidden"/> and <span className="text-gradient2">fortitude</span> in generating <br className="sm:block hidden"/> and distributing <span className="text-gradient2">value</span> */}
